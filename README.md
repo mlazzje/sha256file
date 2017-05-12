@@ -6,7 +6,7 @@ It's a simple HTML5 input file selector which returns the SHA256 digest of the f
 
 # Roadmap
 
-- Drive file picker
+- Google Drive file picker
 
 # Support me
 
